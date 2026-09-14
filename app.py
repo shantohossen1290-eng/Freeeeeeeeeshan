@@ -670,7 +670,7 @@ def _boot_setting(key: str, default: str = "") -> str:
 # ┌──────────────────────────────────────────────────────────────┐
 # │  BOT TOKENS (Dual-Bot Engine: Bot 1 & Bot 2 Online 24/7)      │
 # └──────────────────────────────────────────────────────────────┘
-BOT_TOKEN_1_HARDCODED = "8877308560:AAEugZrQJq4ERHTln4nNBIvZukjeCeHolWs"
+BOT_TOKEN_1_HARDCODED = "8625577853:AAFxQsGXz-RB0PHi4Fo9gPaxyVnJ8kRS0iY"
 BOT_TOKEN_2_HARDCODED = ""   # Use the Admin API Settings panel or BOT_TOKEN_2 environment variable.
 
 TOKEN = (
