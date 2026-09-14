@@ -1,0 +1,8 @@
+pyTelegramBotAPI
+requests
+cryptography
+Flask
+APScheduler
+PyGithub
+psutil
+Pillow
